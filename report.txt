@@ -1,0 +1,11 @@
+Report for project 3
+Code Development
+The code was developed after studying and understanding Remote Procedural Call and RMI in java. It uses two queues for readers and writers and use synchronization  using synchronized keyword and wait/notify mechanism.
+Difficulties faced
+-- Learned using RMI in java.
+-- Running processes on server requested by different clients and synchronization among them.
+-- Printing in order of begin time was a little tricky
+Things Learned
+-- Using RMI in java in an effective and efficient manner.
+-- Implementation and working of wait/ notify on multiple systems.
+-- Working of a system with multiple clients and single server and synchronization among them.
