@@ -1,0 +1,13 @@
+How to compile
+
+Use following command
+  javac *.java
+
+How to run
+  java Start.java
+
+For more information contact mayank519@gmail.com
+
+NOTE: You need to change the input file in Constants.java to change
+input file which should be analogous to System.properties file
+provided in the directory.
